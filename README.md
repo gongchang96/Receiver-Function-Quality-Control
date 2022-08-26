@@ -1,5 +1,6 @@
 # Receiver-Function-Quality-Control
 the code for the paper of Deep Learning for Quality Control of Receiver Functions
+DOI 10.3389/feart.2022.921830
 
 **Data**:
 /data/x_all.npy: RF data with magnitudes > 5.5 used for training.
